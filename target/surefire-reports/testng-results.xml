@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-27T12:40:29 EDT" name="Suite" finished-at="2021-05-27T12:40:29 EDT" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2021-05-27T12:40:29 EDT" name="Test" finished-at="2021-05-27T12:40:29 EDT" duration-ms="61">
+      <class name="udemyPractice.RestAPITest">
+        <test-method signature="deleteTweeter()[pri:0, instance:udemyPractice.RestAPITest@610f7aa]" started-at="2021-05-27T12:40:29 EDT" name="deleteTweeter" finished-at="2021-05-27T12:40:29 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTweeter -->
+        <test-method signature="postJira()[pri:0, instance:udemyPractice.RestAPITest@610f7aa]" started-at="2021-05-27T12:40:29 EDT" name="postJira" finished-at="2021-05-27T12:40:29 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- udemyPractice.RestAPITest -->
+      <class name="udemyPractice.AppiumTest">
+        <test-method signature="NativeAppAndroid()[pri:0, instance:udemyPractice.AppiumTest@6a03bcb1]" started-at="2021-05-27T12:40:29 EDT" name="NativeAppAndroid" finished-at="2021-05-27T12:40:29 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method signature="iosApps()[pri:0, instance:udemyPractice.AppiumTest@6a03bcb1]" started-at="2021-05-27T12:40:29 EDT" name="iosApps" finished-at="2021-05-27T12:40:29 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+      </class> <!-- udemyPractice.AppiumTest -->
+      <class name="udemyPractice.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:udemyPractice.SeleniumTest@3098cf3b]" started-at="2021-05-27T12:40:29 EDT" name="browserAutomation" finished-at="2021-05-27T12:40:29 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:udemyPractice.SeleniumTest@3098cf3b]" started-at="2021-05-27T12:40:29 EDT" name="elementsUI" finished-at="2021-05-27T12:40:29 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- udemyPractice.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
